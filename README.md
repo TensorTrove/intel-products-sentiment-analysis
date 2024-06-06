@@ -32,4 +32,4 @@ This project performs sentiment analysis on Intel product reviews using RoBERTa.
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the GNU General Public License v3.0.
