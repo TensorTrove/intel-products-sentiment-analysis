@@ -1,0 +1,9 @@
+pandas
+nltk
+transformers
+sentencepiece
+matplotlib
+seaborn
+jupyter
+sacremoses
+scikit-learn
