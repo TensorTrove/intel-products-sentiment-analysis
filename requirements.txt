@@ -7,3 +7,4 @@ seaborn
 jupyter
 sacremoses
 scikit-learn
+pymongo
