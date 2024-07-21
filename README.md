@@ -17,7 +17,7 @@ This project performs sentiment analysis on Intel product reviews using RoBERTa.
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/debjit-mandal/intel-products-sentiment-analysis.git
+    git clone https://github.com/TensorTrove/intel-products-sentiment-analysis.git
     ```
 
 2. Navigate to the project directory:
